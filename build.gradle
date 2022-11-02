@@ -55,3 +55,7 @@ serenity {
     reports = ['single-page-html','json-summary']
 }
 gradle.startParameter.continueOnFailure = true
+
+
+
+
