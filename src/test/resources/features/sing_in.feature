@@ -13,3 +13,4 @@ Feature: Login in with correct credentials
     Examples:
       | user       | pass        |
       | 1152696923 | Agosto2022* |
+      | 1152696923 | Agosto2022* |
